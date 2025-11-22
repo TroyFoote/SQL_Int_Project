@@ -47,7 +47,7 @@ QUERY: [2_cohort_analysis.sql](./2_cohort_analysis.sql)
 
 **Visualization:**
 
-<img src="images/cohort_analysis.png" width="60%">
+<img src="images/Cohort_Analysis.png" style="width: 60%; height: auto;">
 
 **Key Findings**
 - Revenue per customer shows an alarming decreasing trend over time.
@@ -113,5 +113,5 @@ To drive sustainable growth, the business must improve the quality of customer a
 
 ## Technical Details
 - **Database:** PostgreSQL
-- **Analysis Tools:** SQL queries executed in PostgreSQL
+- **Analysis Tools:** SQL queries executed in PostgreSQL, DBeaver & PGadmin
 - **Visualization:** Generated using external tools - ChatGPT & Microsoft Copilot.
